@@ -1,0 +1,10 @@
+D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\bin\Debug\BB-UI-Components.exe.config
+D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\bin\Debug\BB-UI-Components.exe
+D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\bin\Debug\BB-UI-Components.pdb
+D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\obj\Debug\BB-UI-Components.csprojAssemblyReference.cache
+D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\obj\Debug\BB_UI_Components.Sample_Form.resources
+D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\obj\Debug\BB_UI_Components.Properties.Resources.resources
+D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\obj\Debug\BB-UI-Components.csproj.GenerateResource.cache
+D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\obj\Debug\BB-UI-Components.csproj.CoreCompileInputs.cache
+D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\obj\Debug\BB-UI-Components.exe
+D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\obj\Debug\BB-UI-Components.pdb

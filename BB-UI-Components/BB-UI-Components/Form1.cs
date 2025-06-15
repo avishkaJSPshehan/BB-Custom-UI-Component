@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BB_UI_Components
 {
-    public partial class Form1 : Form
+    public partial class Sample_Form : Form
     {
-        public Form1()
+        public Sample_Form()
         {
             InitializeComponent();
         }

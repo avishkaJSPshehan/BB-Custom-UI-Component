@@ -1,6 +1,6 @@
 ﻿namespace BB_UI_Components
 {
-    partial class Form1
+    partial class Sample_Form
     {
         /// <summary>
         /// Required designer variable.
@@ -28,10 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Sample_Form
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Name = "Sample_Form";
+            this.Text = "Sample Form";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
