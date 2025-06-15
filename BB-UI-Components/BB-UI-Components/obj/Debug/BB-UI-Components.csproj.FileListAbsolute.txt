@@ -8,3 +8,4 @@ D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components
 D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\obj\Debug\BB-UI-Components.csproj.CoreCompileInputs.cache
 D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\obj\Debug\BB-UI-Components.exe
 D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\obj\Debug\BB-UI-Components.pdb
+D:\Programming Projects\BB-Custom-UI-Component\BB-UI-Components\BB-UI-Components\obj\Debug\Vikum_Creation_Demo.Components.CustomTextBox.resources
