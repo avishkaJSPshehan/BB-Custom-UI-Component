@@ -35,6 +35,7 @@
             this.customTextBox1 = new Vikum_Creation_Demo.Components.CustomTextBox();
             this.customTextBox2 = new Vikum_Creation_Demo.Components.CustomTextBox();
             this.customTextBox3 = new Vikum_Creation_Demo.Components.CustomTextBox();
+            this.customButton5 = new Vikum_Creation_Demo.Components.CustomButton();
             this.SuspendLayout();
             // 
             // customButton4
@@ -67,9 +68,9 @@
             this.customButton3.FlatAppearance.BorderSize = 0;
             this.customButton3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.customButton3.ForeColor = System.Drawing.Color.White;
-            this.customButton3.Location = new System.Drawing.Point(638, 282);
+            this.customButton3.Location = new System.Drawing.Point(638, 284);
             this.customButton3.Name = "customButton3";
-            this.customButton3.Size = new System.Drawing.Size(150, 130);
+            this.customButton3.Size = new System.Drawing.Size(150, 128);
             this.customButton3.TabIndex = 2;
             this.customButton3.TextColor = System.Drawing.Color.White;
             this.customButton3.UseVisualStyleBackColor = false;
@@ -158,11 +159,31 @@
             this.customTextBox3.Texts = "";
             this.customTextBox3.UnderlinedStyle = false;
             // 
+            // customButton5
+            // 
+            this.customButton5.BackColor = System.Drawing.Color.AliceBlue;
+            this.customButton5.BackgroundColor = System.Drawing.Color.AliceBlue;
+            this.customButton5.BackgroundImage = global::BB_UI_Components.Properties.Resources._25231;
+            this.customButton5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.customButton5.BorderColor = System.Drawing.Color.Black;
+            this.customButton5.BorderRadius = 20;
+            this.customButton5.BorderSize = 3;
+            this.customButton5.FlatAppearance.BorderSize = 0;
+            this.customButton5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.customButton5.ForeColor = System.Drawing.Color.White;
+            this.customButton5.Location = new System.Drawing.Point(462, 284);
+            this.customButton5.Name = "customButton5";
+            this.customButton5.Size = new System.Drawing.Size(150, 128);
+            this.customButton5.TabIndex = 7;
+            this.customButton5.TextColor = System.Drawing.Color.White;
+            this.customButton5.UseVisualStyleBackColor = false;
+            // 
             // Sample_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.customButton5);
             this.Controls.Add(this.customTextBox3);
             this.Controls.Add(this.customTextBox2);
             this.Controls.Add(this.customTextBox1);
@@ -185,6 +206,7 @@
         private Vikum_Creation_Demo.Components.CustomTextBox customTextBox1;
         private Vikum_Creation_Demo.Components.CustomTextBox customTextBox2;
         private Vikum_Creation_Demo.Components.CustomTextBox customTextBox3;
+        private Vikum_Creation_Demo.Components.CustomButton customButton5;
     }
 }
 
