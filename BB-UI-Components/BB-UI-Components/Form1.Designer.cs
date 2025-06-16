@@ -36,6 +36,9 @@
             this.customTextBox2 = new Vikum_Creation_Demo.Components.CustomTextBox();
             this.customTextBox3 = new Vikum_Creation_Demo.Components.CustomTextBox();
             this.customButton5 = new Vikum_Creation_Demo.Components.CustomButton();
+            this.bB_RedioButton1 = new BB_UI_Components.Components.BB_RedioButton();
+            this.bB_RedioButton2 = new BB_UI_Components.Components.BB_RedioButton();
+            this.bB_RedioButton3 = new BB_UI_Components.Components.BB_RedioButton();
             this.SuspendLayout();
             // 
             // customButton4
@@ -178,11 +181,59 @@
             this.customButton5.TextColor = System.Drawing.Color.White;
             this.customButton5.UseVisualStyleBackColor = false;
             // 
+            // bB_RedioButton1
+            // 
+            this.bB_RedioButton1.AutoSize = true;
+            this.bB_RedioButton1.CheckedColor = System.Drawing.Color.MediumSlateBlue;
+            this.bB_RedioButton1.Location = new System.Drawing.Point(72, 107);
+            this.bB_RedioButton1.MinimumSize = new System.Drawing.Size(0, 21);
+            this.bB_RedioButton1.Name = "bB_RedioButton1";
+            this.bB_RedioButton1.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.bB_RedioButton1.Size = new System.Drawing.Size(69, 21);
+            this.bB_RedioButton1.TabIndex = 8;
+            this.bB_RedioButton1.TabStop = true;
+            this.bB_RedioButton1.Text = "Male";
+            this.bB_RedioButton1.UnCheckedColor = System.Drawing.Color.Gray;
+            this.bB_RedioButton1.UseVisualStyleBackColor = true;
+            // 
+            // bB_RedioButton2
+            // 
+            this.bB_RedioButton2.AutoSize = true;
+            this.bB_RedioButton2.CheckedColor = System.Drawing.Color.MediumSlateBlue;
+            this.bB_RedioButton2.Location = new System.Drawing.Point(72, 155);
+            this.bB_RedioButton2.MinimumSize = new System.Drawing.Size(0, 21);
+            this.bB_RedioButton2.Name = "bB_RedioButton2";
+            this.bB_RedioButton2.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.bB_RedioButton2.Size = new System.Drawing.Size(85, 21);
+            this.bB_RedioButton2.TabIndex = 9;
+            this.bB_RedioButton2.TabStop = true;
+            this.bB_RedioButton2.Text = "Female";
+            this.bB_RedioButton2.UnCheckedColor = System.Drawing.Color.Gray;
+            this.bB_RedioButton2.UseVisualStyleBackColor = true;
+            // 
+            // bB_RedioButton3
+            // 
+            this.bB_RedioButton3.AutoSize = true;
+            this.bB_RedioButton3.CheckedColor = System.Drawing.Color.MediumSlateBlue;
+            this.bB_RedioButton3.Location = new System.Drawing.Point(72, 200);
+            this.bB_RedioButton3.MinimumSize = new System.Drawing.Size(0, 21);
+            this.bB_RedioButton3.Name = "bB_RedioButton3";
+            this.bB_RedioButton3.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.bB_RedioButton3.Size = new System.Drawing.Size(75, 21);
+            this.bB_RedioButton3.TabIndex = 10;
+            this.bB_RedioButton3.TabStop = true;
+            this.bB_RedioButton3.Text = "Other";
+            this.bB_RedioButton3.UnCheckedColor = System.Drawing.Color.Gray;
+            this.bB_RedioButton3.UseVisualStyleBackColor = true;
+            // 
             // Sample_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.bB_RedioButton3);
+            this.Controls.Add(this.bB_RedioButton2);
+            this.Controls.Add(this.bB_RedioButton1);
             this.Controls.Add(this.customButton5);
             this.Controls.Add(this.customTextBox3);
             this.Controls.Add(this.customTextBox2);
@@ -194,6 +245,7 @@
             this.Name = "Sample_Form";
             this.Text = "Sample Form";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -207,6 +259,9 @@
         private Vikum_Creation_Demo.Components.CustomTextBox customTextBox2;
         private Vikum_Creation_Demo.Components.CustomTextBox customTextBox3;
         private Vikum_Creation_Demo.Components.CustomButton customButton5;
+        private Components.BB_RedioButton bB_RedioButton1;
+        private Components.BB_RedioButton bB_RedioButton2;
+        private Components.BB_RedioButton bB_RedioButton3;
     }
 }
 

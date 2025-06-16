@@ -49,6 +49,9 @@
     <Compile Include="Components\BB-Button.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Components\BB-RedioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Components\BB-TextBox.cs">
       <SubType>UserControl</SubType>
     </Compile>
